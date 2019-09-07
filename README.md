@@ -1,3 +1,3 @@
 # Coursera_Capstone
 
-Week 1 work for coursera
+IBM Assignment: Capstone Project Notebook
